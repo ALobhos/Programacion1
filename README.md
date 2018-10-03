@@ -1,2 +1,2 @@
 # Programacion1
-For proyects and labs
+For projects and labs
