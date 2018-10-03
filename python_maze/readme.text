@@ -2,6 +2,8 @@ Python maze game
 
 Made by Arturo Adolfo Lobos Castillo, student of civil engineer in bioinformatics
 
+For startirng the game, you must run the program "python_maze"
+
 At the main tittle you can press p to play or c to see the credits (a resumed version of
 this readme), when you choose to play, the game will take a while to load all of the
 collision points, after that, the game while give you a message box with the controls of
