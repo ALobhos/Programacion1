@@ -1,0 +1,30 @@
+Python maze game
+
+Made by Arturo Adolfo Lobos Castillo, student of civil engineer in bioinformatics
+
+At the main tittle you can press p to play or c to see the credits (a resumed version of
+this readme), when you choose to play, the game will take a while to load all of the
+collision points, after that, the game while give you a message box with the controls of
+the game (the arrow keys), and you are free to play. For an acclaration, you are the red
+circle in the bottom left corner.
+
+Your objective is to reach the green turtle in the opposite corner, when you make it,
+the game will give you the total of moves you done, and will ask what do you want to do?
+
+Review the game: This will reset the maze, and will move the cicle leaving a line for
+the recreation of all of your moves.
+
+Play again: The maze will reset and you will be able to play again.
+
+Exit: self explained.
+
+
+#pep8 details (for programmers)
+
+ -all of the modules only uses spaces for iteration
+ -for the check of walls, there is no "==", or "is" while checking the booleans
+ -the max lenght of code (reached only once), is 79 characters
+ -all of the commentaries are achord to the code itself
+ -large declarations of argumments are organized vertically
+ -all importations are done in the head of the page, in the first lines
+ -i'm writing all of this and the code in english, just in case I share it on internet
